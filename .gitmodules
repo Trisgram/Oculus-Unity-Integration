@@ -10,3 +10,6 @@
 [submodule "Packages/com.oculus.unity.integration.platform"]
 	path = Packages/com.oculus.unity.integration.platform
 	url = https://github.com/Trisgram/com.oculus.unity.integration.platform.git
+[submodule "Packages/com.oculus.unity.integration.audio-manager"]
+	path = Packages/com.oculus.unity.integration.audio-manager
+	url = https://github.com/Trisgram/com.oculus.unity.integration.audio-manager.git
