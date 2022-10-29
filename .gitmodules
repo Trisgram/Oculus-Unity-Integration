@@ -1,3 +1,6 @@
 [submodule "Packages/com.oculus.unity.integration.spatializer"]
 	path = Packages/com.oculus.unity.integration.spatializer
 	url = https://github.com/Trisgram/com.oculus.unity.integration.spatializer.git
+[submodule "Packages/com.oculus.unity.integration.vr"]
+	path = Packages/com.oculus.unity.integration.vr
+	url = https://github.com/Trisgram/com.oculus.unity.integration.vr.git
