@@ -1,16 +1,7 @@
 {
   "dependencies": {
-    "com.oculus.sampleframework": {
-      "version": "file:com.oculus.sample-framework",
-      "depth": 0,
-      "source": "embedded",
-      "dependencies": {
-        "com.unity.xr.oculus": "3.0.2",
-        "com.oculus.unity-integration": "1.0.0"
-      }
-    },
     "com.oculus.unity-integration": {
-      "version": "file:com.oculus.unity-integration",
+      "version": "file:com.oculus.unity.integration",
       "depth": 0,
       "source": "embedded",
       "dependencies": {
@@ -24,28 +15,28 @@
       }
     },
     "com.oculus.unity-integration.audio-manager": {
-      "version": "file:com.oculus.unity-integration.audio-manager",
+      "version": "file:com.oculus.unity.integration.audio-manager",
       "depth": 0,
       "source": "embedded",
       "dependencies": {
         "com.unity.xr.oculus": "3.0.2",
-        "com.oculus.unity-integration.spatializer": "1.0.0"
+        "com.oculus.unity.integration.spatializer": "1.0.0"
       }
     },
     "com.oculus.unity-integration.avatar": {
-      "version": "file:com.oculus.unity-integration.avatar",
+      "version": "file:com.oculus.unity.integration.avatar",
       "depth": 0,
       "source": "embedded",
       "dependencies": {
         "com.unity.xr.oculus": "3.0.2",
-        "com.oculus.unity-integration.spatializer": "1.0.0",
-        "com.oculus.unity-integration.platform": "1.0.0",
-        "com.oculus.unity-integration.vr": "1.0.0",
-        "com.oculus.unity-integration.lip-sync": "1.0.0"
+        "com.oculus.unity.integration.spatializer": "1.0.0",
+        "com.oculus.unity.integration.platform": "1.0.0",
+        "com.oculus.unity.integration.vr": "1.0.0",
+        "com.oculus.unity.integration.lip-sync": "1.0.0"
       }
     },
     "com.oculus.unity-integration.lip-sync": {
-      "version": "file:com.oculus.unity-integration.lip-sync",
+      "version": "file:com.oculus.unity.integration.lip-sync",
       "depth": 0,
       "source": "embedded",
       "dependencies": {
@@ -53,7 +44,7 @@
       }
     },
     "com.oculus.unity-integration.platform": {
-      "version": "file:com.oculus.unity-integration.platform",
+      "version": "file:com.oculus.unity.integration.platform",
       "depth": 0,
       "source": "embedded",
       "dependencies": {
@@ -74,6 +65,31 @@
       "source": "embedded",
       "dependencies": {
         "com.unity.xr.oculus": "3.0.2"
+      }
+    },
+    "com.oculus.unity.integration.spatializer": {
+      "version": "file:com.oculus.unity.integration.spatializer",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {
+        "com.unity.xr.oculus": "3.0.2"
+      }
+    },
+    "com.oculus.unity.integration.vr": {
+      "version": "file:com.oculus.unity.integration.vr",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {
+        "com.unity.xr.oculus": "3.0.2"
+      }
+    },
+    "com.oculus.unity.sample-framework": {
+      "version": "file:com.oculus.unity.sample-framework",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {
+        "com.unity.xr.oculus": "3.0.2",
+        "com.oculus.unity-integration": "1.0.0"
       }
     },
     "com.unity.collab-proxy": {
