@@ -7,3 +7,6 @@
 [submodule "Packages/com.oculus.unity.integration.lip-sync"]
 	path = Packages/com.oculus.unity.integration.lip-sync
 	url = https://github.com/Trisgram/com.oculus.unity.integration.lip-sync.git
+[submodule "Packages/com.oculus.unity.integration.platform"]
+	path = Packages/com.oculus.unity.integration.platform
+	url = https://github.com/Trisgram/com.oculus.unity.integration.platform.git
