@@ -1,7 +1,7 @@
 {
-  "name": "com.oculus.unity-integration.avatar",
+  "name": "com.oculus.unity.integration.avatar",
   "displayName": "Oculus Integration Avatar",
-  "description": "A Non-Official Mirror of the Oculus Unity-Integration Avatar as a package",
+  "description": "Unofficial Mirror of the Oculus Unity-Integration Avatar as a package",
   "keywords": [],
   "version": "1.0.0",
   "unity": "2021.2",

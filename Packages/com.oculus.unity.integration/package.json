@@ -9,13 +9,12 @@
   "author": "Facebook Technologies, LLC",
   "dependencies": {
     "com.unity.xr.oculus": "3.0.2",
-    "com.oculus.unity-integration.audio-manager": "1.0.0",
-    "com.oculus.unity-integration.avatar": "1.0.0",
-    "com.oculus.unity-integration.lip-sync": "1.0.0",
-    "com.oculus.unity-integration.platform": "1.0.0",
-    "com.oculus.unity-integration.spatializer": "1.0.0",
-    "com.oculus.unity-integration.vr": "1.0.0"
-
+    "com.oculus.unity.integration.audio-manager": "1.0.0",
+    "com.oculus.unity.integration.avatar": "1.0.0",
+    "com.oculus.unity.integration.lip-sync": "1.0.0",
+    "com.oculus.unity.integration.platform": "1.0.0",
+    "com.oculus.unity.integration.spatializer": "1.0.0",
+    "com.oculus.unity.integration.vr": "1.0.0"
   },
   "type": "sdk"
 }

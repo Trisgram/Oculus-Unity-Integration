@@ -6,15 +6,15 @@
       "source": "embedded",
       "dependencies": {
         "com.unity.xr.oculus": "3.0.2",
-        "com.oculus.unity-integration.audio-manager": "1.0.0",
-        "com.oculus.unity-integration.avatar": "1.0.0",
-        "com.oculus.unity-integration.lip-sync": "1.0.0",
-        "com.oculus.unity-integration.platform": "1.0.0",
-        "com.oculus.unity-integration.spatializer": "1.0.0",
-        "com.oculus.unity-integration.vr": "1.0.0"
+        "com.oculus.unity.integration.audio-manager": "1.0.0",
+        "com.oculus.unity.integration.avatar": "1.0.0",
+        "com.oculus.unity.integration.lip-sync": "1.0.0",
+        "com.oculus.unity.integration.platform": "1.0.0",
+        "com.oculus.unity.integration.spatializer": "1.0.0",
+        "com.oculus.unity.integration.vr": "1.0.0"
       }
     },
-    "com.oculus.unity-integration.audio-manager": {
+    "com.oculus.unity.integration.audio-manager": {
       "version": "file:com.oculus.unity.integration.audio-manager",
       "depth": 0,
       "source": "embedded",
@@ -23,7 +23,7 @@
         "com.oculus.unity.integration.spatializer": "1.0.0"
       }
     },
-    "com.oculus.unity-integration.avatar": {
+    "com.oculus.unity.integration.avatar": {
       "version": "file:com.oculus.unity.integration.avatar",
       "depth": 0,
       "source": "embedded",
@@ -35,7 +35,7 @@
         "com.oculus.unity.integration.lip-sync": "1.0.0"
       }
     },
-    "com.oculus.unity-integration.lip-sync": {
+    "com.oculus.unity.integration.lip-sync": {
       "version": "file:com.oculus.unity.integration.lip-sync",
       "depth": 0,
       "source": "embedded",
@@ -43,24 +43,8 @@
         "com.unity.xr.oculus": "3.0.2"
       }
     },
-    "com.oculus.unity-integration.platform": {
+    "com.oculus.unity.integration.platform": {
       "version": "file:com.oculus.unity.integration.platform",
-      "depth": 0,
-      "source": "embedded",
-      "dependencies": {
-        "com.unity.xr.oculus": "3.0.2"
-      }
-    },
-    "com.oculus.unity-integration.spatializer": {
-      "version": "file:com.oculus.unity-integration.spatializer",
-      "depth": 0,
-      "source": "embedded",
-      "dependencies": {
-        "com.unity.xr.oculus": "3.0.2"
-      }
-    },
-    "com.oculus.unity-integration.vr": {
-      "version": "file:com.oculus.unity-integration.vr",
       "depth": 0,
       "source": "embedded",
       "dependencies": {
