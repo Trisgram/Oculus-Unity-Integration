@@ -16,3 +16,6 @@
 [submodule "Packages/com.oculus.unity.integration.avatar"]
 	path = Packages/com.oculus.unity.integration.avatar
 	url = https://github.com/Trisgram/com.oculus.unity.integration.avatar.git
+[submodule "Packages/com.oculus.unity.sample-framework"]
+	path = Packages/com.oculus.unity.sample-framework
+	url = https://github.com/Trisgram/com.oculus.unity.sample-framework.git
