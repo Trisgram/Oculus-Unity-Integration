@@ -5,13 +5,13 @@
       "depth": 0,
       "source": "embedded",
       "dependencies": {
-        "com.unity.xr.oculus": "3.0.2",
-        "com.oculus.unity.integration.audio-manager": "1.0.0",
-        "com.oculus.unity.integration.avatar": "1.0.0",
-        "com.oculus.unity.integration.lip-sync": "1.0.0",
-        "com.oculus.unity.integration.platform": "1.0.0",
-        "com.oculus.unity.integration.spatializer": "1.0.0",
-        "com.oculus.unity.integration.vr": "1.0.0"
+        "com.unity.xr.oculus": "1.11.2",
+        "com.oculus.unity.integration.audio-manager": "32.0.0",
+        "com.oculus.unity.integration.avatar": "20.0.0",
+        "com.oculus.unity.integration.lip-sync": "20.0.0",
+        "com.oculus.unity.integration.platform": "32.0.0",
+        "com.oculus.unity.integration.spatializer": "32.0.0",
+        "com.oculus.unity.integration.vr": "31.2.0"
       }
     },
     "com.oculus.unity.integration.audio-manager": {
@@ -19,8 +19,8 @@
       "depth": 0,
       "source": "embedded",
       "dependencies": {
-        "com.unity.xr.oculus": "3.0.2",
-        "com.oculus.unity.integration.spatializer": "1.0.0"
+        "com.unity.xr.oculus": "1.11.2",
+        "com.oculus.unity.integration.spatializer": "32.0.0"
       }
     },
     "com.oculus.unity.integration.avatar": {
@@ -28,11 +28,11 @@
       "depth": 0,
       "source": "embedded",
       "dependencies": {
-        "com.unity.xr.oculus": "3.0.2",
-        "com.oculus.unity.integration.spatializer": "1.0.0",
-        "com.oculus.unity.integration.platform": "1.0.0",
-        "com.oculus.unity.integration.vr": "1.0.0",
-        "com.oculus.unity.integration.lip-sync": "1.0.0"
+        "com.unity.xr.oculus": "1.11.2",
+        "com.oculus.unity.integration.spatializer": "32.0.0",
+        "com.oculus.unity.integration.platform": "32.0.0",
+        "com.oculus.unity.integration.vr": "31.2.0",
+        "com.oculus.unity.integration.lip-sync": "20.0.0"
       }
     },
     "com.oculus.unity.integration.lip-sync": {
@@ -40,7 +40,7 @@
       "depth": 0,
       "source": "embedded",
       "dependencies": {
-        "com.unity.xr.oculus": "3.0.2"
+        "com.unity.xr.oculus": "1.11.2"
       }
     },
     "com.oculus.unity.integration.platform": {
@@ -48,7 +48,7 @@
       "depth": 0,
       "source": "embedded",
       "dependencies": {
-        "com.unity.xr.oculus": "3.0.2"
+        "com.unity.xr.oculus": "1.11.2"
       }
     },
     "com.oculus.unity.integration.spatializer": {
@@ -56,7 +56,7 @@
       "depth": 0,
       "source": "embedded",
       "dependencies": {
-        "com.unity.xr.oculus": "3.0.2"
+        "com.unity.xr.oculus": "1.11.2"
       }
     },
     "com.oculus.unity.integration.vr": {
@@ -64,7 +64,7 @@
       "depth": 0,
       "source": "embedded",
       "dependencies": {
-        "com.unity.xr.oculus": "3.0.2"
+        "com.unity.xr.oculus": "1.11.2"
       }
     },
     "com.oculus.unity.sample-framework": {
@@ -72,8 +72,8 @@
       "depth": 0,
       "source": "embedded",
       "dependencies": {
-        "com.unity.xr.oculus": "3.0.2",
-        "com.oculus.unity-integration": "1.0.0"
+        "com.unity.xr.oculus": "1.11.2",
+        "com.oculus.unity-integration": "32.0.0"
       }
     },
     "com.unity.collab-proxy": {
@@ -163,7 +163,7 @@
     },
     "com.unity.subsystemregistration": {
       "version": "1.1.0",
-      "depth": 3,
+      "depth": 2,
       "source": "registry",
       "dependencies": {
         "com.unity.modules.subsystems": "1.0.0"
@@ -233,7 +233,7 @@
     },
     "com.unity.xr.legacyinputhelpers": {
       "version": "2.1.9",
-      "depth": 3,
+      "depth": 2,
       "source": "registry",
       "dependencies": {
         "com.unity.modules.vr": "1.0.0",
@@ -243,7 +243,7 @@
     },
     "com.unity.xr.management": {
       "version": "4.2.0",
-      "depth": 2,
+      "depth": 1,
       "source": "registry",
       "dependencies": {
         "com.unity.modules.subsystems": "1.0.0",
@@ -255,11 +255,12 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.xr.oculus": {
-      "version": "3.0.2",
-      "depth": 1,
+      "version": "1.11.2",
+      "depth": 0,
       "source": "registry",
       "dependencies": {
-        "com.unity.xr.management": "4.2.0"
+        "com.unity.xr.management": "4.2.0",
+        "com.unity.ugui": "1.0.0"
       },
       "url": "https://packages.unity.com"
     },
