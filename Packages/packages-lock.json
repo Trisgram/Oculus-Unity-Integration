@@ -1,13 +1,13 @@
 {
   "dependencies": {
-    "com.oculus.unity-integration": {
+    "com.oculus.unity.integration": {
       "version": "file:com.oculus.unity.integration",
       "depth": 0,
       "source": "embedded",
       "dependencies": {
         "com.unity.xr.oculus": "1.11.2",
         "com.oculus.unity.integration.audio-manager": "32.0.0",
-        "com.oculus.unity.integration.avatar": "20.0.0",
+        "com.oculus.unity.integration.avatar": "20.0.1",
         "com.oculus.unity.integration.lip-sync": "20.0.0",
         "com.oculus.unity.integration.platform": "32.0.0",
         "com.oculus.unity.integration.spatializer": "32.0.0",
@@ -73,7 +73,7 @@
       "source": "embedded",
       "dependencies": {
         "com.unity.xr.oculus": "1.11.2",
-        "com.oculus.unity-integration": "32.0.0"
+        "com.oculus.unity.integration": "32.0.2"
       }
     },
     "com.unity.burst": {
