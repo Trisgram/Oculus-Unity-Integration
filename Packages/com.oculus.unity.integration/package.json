@@ -1,7 +1,7 @@
 {
 	"name": "com.oculus.unity.integration",
 	"displayName": "Oculus Integration",
-	"description": "Unofficial Oculus Unity-Integration as a package for Unity",
+	"description": "Unofficial Oculus Unity Integration as a package for Unity",
 	"keywords": [],
 	"version": "32.0.2",
 	"unity": "2021.2",
