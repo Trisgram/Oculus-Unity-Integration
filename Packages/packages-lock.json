@@ -7,11 +7,11 @@
       "dependencies": {
         "com.unity.xr.oculus": "1.11.2",
         "com.oculus.unity.integration.audio-manager": "32.0.0",
-        "com.oculus.unity.integration.avatar": "20.0.1",
-        "com.oculus.unity.integration.lip-sync": "20.0.0",
-        "com.oculus.unity.integration.platform": "32.0.0",
+        "com.oculus.unity.integration.avatar": "20.0.2",
+        "com.oculus.unity.integration.lip-sync": "29.0.0",
+        "com.oculus.unity.integration.platform": "33.0.0",
         "com.oculus.unity.integration.spatializer": "32.0.0",
-        "com.oculus.unity.integration.vr": "31.2.0"
+        "com.oculus.unity.integration.vr": "33.0.0"
       }
     },
     "com.oculus.unity.integration.audio-manager": {
@@ -30,9 +30,9 @@
       "dependencies": {
         "com.unity.xr.oculus": "1.11.2",
         "com.oculus.unity.integration.spatializer": "32.0.0",
-        "com.oculus.unity.integration.platform": "32.0.0",
-        "com.oculus.unity.integration.vr": "31.2.0",
-        "com.oculus.unity.integration.lip-sync": "20.0.0"
+        "com.oculus.unity.integration.platform": "33.0.0",
+        "com.oculus.unity.integration.vr": "33.0.0",
+        "com.oculus.unity.integration.lip-sync": "29.0.0"
       }
     },
     "com.oculus.unity.integration.lip-sync": {
@@ -73,7 +73,7 @@
       "source": "embedded",
       "dependencies": {
         "com.unity.xr.oculus": "1.11.2",
-        "com.oculus.unity.integration": "32.0.2"
+        "com.oculus.unity.integration": "33.0.0"
       }
     },
     "com.unity.burst": {
