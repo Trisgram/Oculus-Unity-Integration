@@ -7,12 +7,12 @@ Unofficial [Oculus Unity Integration](https://developer.oculus.com/downloads/pac
 This package works as a grouping for all the oculus packages so you don't have to pick and choose which one you need.
 
 The packages are:
-[![openupm](https://img.shields.io/npm/v/com.oculus.unity.integration.vr?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/com.oculus.unity.integration.vr/)
-[![openupm](https://img.shields.io/npm/v/com.oculus.unity.integration.spatializer?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/com.oculus.unity.integration.spatializer/)
-[![openupm](https://img.shields.io/npm/v/com.oculus.unity.integration.platform?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/com.oculus.unity.integration.platform/)
-[![openupm](https://img.shields.io/npm/v/com.oculus.unity.integration.lip-sync?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/com.oculus.unity.integration.lip-sync/)
-[![openupm](https://img.shields.io/npm/v/com.oculus.unity.integration.avatar?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/com.oculus.unity.integration.avatar/)
-[![openupm](https://img.shields.io/npm/v/com.oculus.unity.integration.audio-manager?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/com.oculus.unity.integration.audio-manager/)
+- com.oculus.unity.integration.vr [![openupm](https://img.shields.io/npm/v/com.oculus.unity.integration.vr?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/com.oculus.unity.integration.vr/)
+- com.oculus.unity.integration.spatializer [![openupm](https://img.shields.io/npm/v/com.oculus.unity.integration.spatializer?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/com.oculus.unity.integration.spatializer/)
+- com.oculus.unity.integration.platform [![openupm](https://img.shields.io/npm/v/com.oculus.unity.integration.platform?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/com.oculus.unity.integration.platform/)
+- com.oculus.unity.integration.lip-sync [![openupm](https://img.shields.io/npm/v/com.oculus.unity.integration.lip-sync?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/com.oculus.unity.integration.lip-sync/)
+- com.oculus.unity.integration.avatar [![openupm](https://img.shields.io/npm/v/com.oculus.unity.integration.avatar?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/com.oculus.unity.integration.avatar/)
+- com.oculus.unity.integration.audio-manager [![openupm](https://img.shields.io/npm/v/com.oculus.unity.integration.audio-manager?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/com.oculus.unity.integration.audio-manager/)
 
 ## Installing
 

@@ -3,7 +3,7 @@
 	"displayName": "Oculus Integration",
 	"description": "Unofficial Oculus Unity Integration as a package for Unity",
 	"keywords": [],
-	"version": "33.0.0",
+	"version": "33.0.1",
 	"unity": "2021.2",
 	"license": "Oculus SDK License",
 	"author": "Facebook Technologies, LLC",
